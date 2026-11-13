@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.fox.audiosplit">
+        <permission name="android.permission.MODIFY_AUDIO_ROUTING" />
+        <permission name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+        <permission name="android.permission.CAPTURE_MEDIA_OUTPUT" />
+    </privapp-permissions>
+</permissions>

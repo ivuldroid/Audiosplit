@@ -1,0 +1,6 @@
+id=audiosplit
+name=Audio Split (per-app output)
+version=v1.0
+versionCode=1
+author=Fox
+description=Arahkan audio app tertentu ke TWS/headset, audio lain tetap ke speaker.
